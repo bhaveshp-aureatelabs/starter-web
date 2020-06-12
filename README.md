@@ -12,3 +12,5 @@ Sample website with plenty of files for demos
 Find it on git
 
 ### How it works? diffrent.
+
+## Copyright © Bhavesh Dev 2020 - ~
