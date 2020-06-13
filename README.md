@@ -13,4 +13,6 @@ Find it on git
 
 ### How it works? diffrent.
 
-## Copyright © Bhavesh Dev 2020 - ~
+## Copyright © Bhavesh Prajapati 2020 - ~
+
+
