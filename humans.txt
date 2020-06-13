@@ -4,6 +4,7 @@
 # TEAM
 
     Bhavesh Prajapati -- Developer -- @bhaveshpp111
+    Hardik Makwana  -- Developer
 
 # THANKS
 
